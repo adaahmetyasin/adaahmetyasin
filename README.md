@@ -20,7 +20,7 @@
 <a href="https://twitter.com/adahmetyasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adahmetyasin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmet yasin ada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet yasin ada" height="30" width="40" /></a>
 <a href="https://instagram.com/ada.ahmetyasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ada.ahmetyasin" height="30" width="40" /></a>
-<a href="https://discord.gg/ada.ahmetyasin#9416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ada.ahmetyasin#9416" height="30" width="40" /></a>
+<a href="https://discord.gg/#9416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ada.ahmetyasin#9416" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
