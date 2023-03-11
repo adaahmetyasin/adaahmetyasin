@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adahmetyasin" target="blank"><img src="https://img.shields.io/twitter/follow/adahmetyasin?logo=twitter&style=for-the-badge" alt="adahmetyasin" /></a> </p>
 
-- 🔭 I’m currently working on **web application**
+- 🔭 I’m currently working on **web applications**
 
 - 🌱 I’m currently learning **C#**
 
