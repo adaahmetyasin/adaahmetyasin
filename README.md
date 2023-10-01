@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning C#, React, T-SQL and Dotnet
+- 🌱 I’m currently learning C#, Dotnet, React, and T-SQL
 
 - 🤝 I’m looking for help with **cyber security**
 
