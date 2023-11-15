@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning C#, Dotnet, React, and T-SQL
+- 🌱 I’m currently learning C#, Dotnet, React, and SQL
 
-- 🤝 I’m looking for help with **cyber security**
+- 🤝 I’m looking for help with **cyber security and web development**
 
 - 📫 How to reach me **adaahmetyasinedu@gmail.com**
 
